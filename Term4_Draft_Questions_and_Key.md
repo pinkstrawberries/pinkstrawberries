@@ -151,7 +151,7 @@ Choose the word or phrase that best completes each sentence. Consider tense, asp
 [Info box]
 **Anaphora:** repeating a word or phrase at the start of successive clauses or phrases. e.g. "Every rehearsal, every injury, every sacrifice had led to this night."
 **Epistrophe:** repeating a word or phrase at the end of successive clauses or phrases. e.g. "She was born in this valley, married in this valley and will be buried in this valley."
-**Zeugma:** one word (usually a verb) governs two others in different senses. e.g. "She broke the record and her coach's heart."
+**Zeugma:** one word (usually a verb) governs two others in different senses. e.g. "She lost her keys and her temper."
 **Hypophora:** raising a question and immediately answering it. e.g. "What did the inquiry find? Almost nothing the public did not already know."
 
 Identify the rhetorical device used in each sentence: Anaphora (A), Epistrophe (E), Zeugma (Z) or Hypophora (H).
@@ -266,7 +266,7 @@ In order to make your writing more effective, it is vital to utilise interesting
 
 1. To find a way around a rule or obstacle ________   4. To increase rapidly in number ________
 2. To shock or stir someone into action ________   5. To adopt or publicly support a belief ________
-3. To give up power or a claim willingly ________   6. To replace or take the place of someone or something, especially by becoming more powerful or successful ________
+3. To give up power or a claim willingly ________   6. To replace someone or something, especially by becoming more successful or powerful ________
 
 ### Techniques
 [Definitions box]
@@ -364,7 +364,7 @@ Identify the technique used in each sentence and briefly explain its effect (½ 
 14. Parent at a school board meeting: "The principal suggests later start times, so apparently she thinks students should sleep all day and never learn discipline." PF | Z | I | SM
 15. On the morning the factory closed for good, the rain fell listlessly, too weary even to become a storm. PF | Z | I | SM
 16. A road-safety billboard caused three accidents in its first week because drivers kept slowing down to read it. PF | Z | I | SM
-17. Leaving the hearing, the journalist opened her umbrella and an old wound in the minister's reputation. PF | Z | I | SM
+17. Leaving the hearing, the journalist opened her umbrella and an old wound from the minister's past. PF | Z | I | SM
 
 ### Punctuation
 [Reminder box]
@@ -503,7 +503,7 @@ Insert appropriate punctuation (commas, dashes, colons, semicolons, hyphens and 
 3. To give up power or a claim willingly: Relinquish
 4. To increase rapidly in number: Proliferate
 5. To adopt or publicly support a belief: Espouse
-6. To replace or take the place of someone or something, especially by becoming more powerful or successful: Supplant
+6. To replace someone or something, especially by becoming more successful or powerful: Supplant
 7. SS
 8. FD
 9. SM
@@ -541,7 +541,7 @@ Insert appropriate punctuation (commas, dashes, colons, semicolons, hyphens and 
 14. SM – The parent distorts a moderate proposal (later start times) into an extreme one (sleeping all day, no discipline), making the principal easy to ridicule and swaying the audience through alarm rather than evidence.
 15. PF – The rain falling "listlessly", "too weary" even to storm, mirrors the town's exhaustion and defeat after the closure, creating a bleak, heavy atmosphere.
 16. I (situational) – A billboard designed to prevent accidents causes them; the unexpected outcome creates dark humour and exposes how poorly the campaign was thought through.
-17. Z – "Opened" applies literally to the umbrella and figuratively to the old wound in the minister's reputation (reviving a past scandal); pairing an ordinary action with a damaging one creates wry humour and suggests how casually and effortlessly she inflicts the damage.
+17. Z – "Opened" applies literally to the umbrella and figuratively to an old wound from the minister's past (reviving a past scandal); pairing an ordinary action with a damaging one creates wry humour and suggests how casually and effortlessly she inflicts the damage.
     (Q14–17 marking: ½ for the correct technique + ½ for an accurate effect.)
 18. The coroner reached one conclusion: the ferry's captain, who had been awake for thirty hours, was unfit to sail.
     (Also accept dashes instead of the commas.)

@@ -157,7 +157,7 @@ Choose the word or phrase that best completes each sentence. Consider tense, asp
 Identify the rhetorical device used in each sentence: Anaphora (A), Epistrophe (E), Zeugma (Z) or Hypophora (H).
 
 14. Scientists warned about the drought, farmers warned about the drought, and even the banks warned about the drought. A | E | Z | H
-15. The striker scored a hat-trick and the undying gratitude of every fan in the stadium. A | E | Z | H
+15. The detective broke the lock and the suspect's confidence in the same afternoon. A | E | Z | H
 16. Not a single witness came forward, not a single camera caught the theft, not a single alarm sounded. A | E | Z | H
 17. Why did the rescue mission fail so disastrously? Its leaders ignored every warning the local guides gave them. A | E | Z | H
 18. The ambassador swallowed his pride and an overcooked dinner in the name of diplomacy. A | E | Z | H
@@ -192,7 +192,7 @@ Options for each: ○ Noun clause ○ Adjective (relative) clause ○ Adverbial 
 
 Each sentence contains 2–3 grammatical errors. Please rewrite the sentence with appropriate grammar.
 
-14. The new policy aims to reduce emissions, cutting costs and the creation of local jobs, critics say it is little more than a slogan.
+14. The new policy aims to reduce emissions, cutting costs and to create local jobs, critics say it is little more than a slogan.
 15. The salvage diver told my colleague and myself that among the items recovered from the wreck was a compass and two silver pistols.
 16. Although the reef had survived three bleaching events. Scientists warn that a fourth could destroy it, and they called for urgent action.
 
@@ -266,7 +266,7 @@ In order to make your writing more effective, it is vital to utilise interesting
 
 1. To find a way around a rule or obstacle ________   4. To increase rapidly in number ________
 2. To shock or stir someone into action ________   5. To adopt or publicly support a belief ________
-3. To give up power or a claim willingly ________   6. To take someone's place, often by scheming ________
+3. To give up power or a claim willingly ________   6. To replace or take the place of someone or something, especially by becoming more powerful or successful ________
 
 ### Techniques
 [Definitions box]
@@ -283,7 +283,7 @@ Identify whether each argument is an example of straw man (SM), false dilemma (F
 8. Gym advertisement: "Join today, or accept being unfit for the rest of your life." SM | FD | SS
 9. Resident: "The town needs a small skate park." Councillor: "So she wants teenagers running riot in our streets? I won't support chaos." SM | FD | SS
 10. School debate. Affirmative: "Phones should be switched off during lessons." Negative: "My opponent thinks students can't be trusted with anything and should be treated like prisoners." SM | FD | SS
-11. Health campaign poster: "Get your flu shot this week, or be the reason your grandmother ends up in hospital." SM | FD | SS
+11. Community campaign flyer: "Either we build the new aquatic centre exactly as proposed, or this town has no interest in keeping young people active." SM | FD | SS
 
 ### Grammar
 Underline the misplaced/dangling modifier, then rewrite the sentence correctly (½ mark for each step).
@@ -364,7 +364,7 @@ Identify the technique used in each sentence and briefly explain its effect (½ 
 14. Parent at a school board meeting: "The principal suggests later start times, so apparently she thinks students should sleep all day and never learn discipline." PF | Z | I | SM
 15. On the morning the factory closed for good, the rain fell listlessly, too weary even to become a storm. PF | Z | I | SM
 16. A road-safety billboard caused three accidents in its first week because drivers kept slowing down to read it. PF | Z | I | SM
-17. After the verdict, the defendant lost his composure and his last remaining supporter in the public gallery. PF | Z | I | SM
+17. Leaving the hearing, the journalist opened her umbrella and an old wound in the minister's reputation. PF | Z | I | SM
 
 ### Punctuation
 [Reminder box]
@@ -442,7 +442,7 @@ Insert appropriate punctuation (commas, dashes, colons, semicolons, hyphens and 
 12. C (would have been spared – third conditional); B (would not be spending – mixed conditional: past condition, present result)
 13. B (will have travelled – future perfect); D (were – with "neither … nor", the verb agrees with the nearer subject, "assistants")
 14. E – "warned about the drought" ends each clause
-15. Z – "scored" applies literally to the hat-trick and figuratively to the fans' gratitude
+15. Z – "broke" applies literally to the lock and figuratively to the suspect's confidence
 16. A – "Not a single" begins each clause
 17. H – the writer asks a question and immediately answers it
 18. Z – "swallowed" applies figuratively to his pride and literally to the dinner
@@ -463,8 +463,8 @@ Insert appropriate punctuation (commas, dashes, colons, semicolons, hyphens and 
 11. Adverbial clause (concession: "although …")
 12. Independent clause (can stand alone as a sentence)
 13. Noun clause (object of "debate")
-14. The new policy aims to reduce emissions, cut costs and create local jobs; critics, however, say it is little more than a slogan.
-    (Errors: faulty parallelism – "cutting costs", "the creation of"; comma splice. Also accept "…local jobs, but critics say…" or a full stop before "Critics".)
+14. The new policy aims to reduce emissions, cut costs and create local jobs; critics say it is little more than a slogan.
+    (Errors: faulty parallelism – "cutting costs" and "to create" do not match "reduce"; comma splice. Also accept "…local jobs, but critics say…" or a full stop before "Critics".)
 15. The salvage diver told my colleague and me that among the items recovered from the wreck were a compass and two silver pistols.
     (Errors: "myself" → "me"; "was" → "were" – inverted sentence with a plural subject.)
 16. Although the reef had survived three bleaching events, scientists warned that a fourth could destroy it, and they called for urgent action.
@@ -488,7 +488,7 @@ Insert appropriate punctuation (commas, dashes, colons, semicolons, hyphens and 
 10. privy to
 11. fraught with
 12. showed = demonstrated/established/confirmed; help = benefit/aid/assist; got worse = deteriorated/regressed/relapsed
-13. said = ruled/declared/determined; to blame = culpable/liable; made = compelled/ordered/obliged
+13. said = ruled/declared/determined; to blame = culpable/liable; made it pay = compelled it to pay / ordered it to pay / required it to pay / obliged it to pay
 14. liked = admired/lauded/commended; plain = austere/understated/restrained; fits = harmonises/blends/integrates
 15. Hamartia: the tragic flaw or error of judgement in a protagonist that leads to their downfall.
 16. Hubris: excessive pride or self-confidence that leads a character to overreach and brings about their downfall (often the tragic hero's hamartia).
@@ -503,7 +503,7 @@ Insert appropriate punctuation (commas, dashes, colons, semicolons, hyphens and 
 3. To give up power or a claim willingly: Relinquish
 4. To increase rapidly in number: Proliferate
 5. To adopt or publicly support a belief: Espouse
-6. To take someone's place, often by scheming: Supplant
+6. To replace or take the place of someone or something, especially by becoming more powerful or successful: Supplant
 7. SS
 8. FD
 9. SM
@@ -541,7 +541,7 @@ Insert appropriate punctuation (commas, dashes, colons, semicolons, hyphens and 
 14. SM – The parent distorts a moderate proposal (later start times) into an extreme one (sleeping all day, no discipline), making the principal easy to ridicule and swaying the audience through alarm rather than evidence.
 15. PF – The rain falling "listlessly", "too weary" even to storm, mirrors the town's exhaustion and defeat after the closure, creating a bleak, heavy atmosphere.
 16. I (situational) – A billboard designed to prevent accidents causes them; the unexpected outcome creates dark humour and exposes how poorly the campaign was thought through.
-17. Z – "Lost" applies figuratively to his composure and literally to his supporter; the double meaning compresses two blows into one clause, emphasising his humiliation and isolation.
+17. Z – "Opened" applies literally to the umbrella and figuratively to the old wound in the minister's reputation (reviving a past scandal); pairing an ordinary action with a damaging one creates wry humour and suggests how casually and effortlessly she inflicts the damage.
     (Q14–17 marking: ½ for the correct technique + ½ for an accurate effect.)
 18. The coroner reached one conclusion: the ferry's captain, who had been awake for thirty hours, was unfit to sail.
     (Also accept dashes instead of the commas.)
